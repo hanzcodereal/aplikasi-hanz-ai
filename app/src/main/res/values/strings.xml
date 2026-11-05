@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Umum -->
+    <string name="app_name">Hanz AI</string>
+    <string name="app_tagline">Asisten AI Pintar Berbahasa Indonesia</string>
+    <string name="logo_desc">Logo Hanz AI</string>
+
+    <!-- Top bar & menu -->
+    <string name="topbar_model">Model: %1$s</string>
+    <string name="menu_choose_model">Pilih Model AI</string>
+    <string name="menu_about">Tentang Aplikasi</string>
+    <string name="action_menu">Menu lainnya</string>
+    <string name="action_clear_chat">Hapus obrolan</string>
+
+    <!-- Input -->
+    <string name="input_placeholder">Ketik pesan…</string>
+    <string name="action_pick_image">Pilih gambar</string>
+    <string name="action_remove_image">Hapus gambar</string>
+    <string name="action_send">Kirim</string>
+    <string name="image_preview_desc">Pratinjau gambar yang dipilih</string>
+    <string name="sent_image_desc">Gambar yang dikirim</string>
+
+    <!-- Layar sambutan -->
+    <string name="welcome_title">Halo, saya Hanz AI 👋</string>
+    <string name="welcome_subtitle">Tanyakan apa saja atau kirim sebuah gambar, saya siap membantu.</string>
+    <string name="suggestion_1">Jelaskan apa itu kecerdasan buatan dengan bahasa sederhana</string>
+    <string name="suggestion_2">Buatkan ide konten media sosial untuk usaha kecil</string>
+    <string name="suggestion_3">Bantu saya menulis email lamaran kerja yang sopan</string>
+
+    <!-- Dialog Tentang -->
+    <string name="about_title">Tentang Hanz AI</string>
+    <string name="about_version">Versi %1$s</string>
+    <string name="about_description">Hanz AI adalah asisten obrolan pintar yang bisa menjawab pertanyaan dan menjelaskan isi gambar. Ditenagai oleh Google Gemini.</string>
+    <string name="about_developer_label">Pengembang</string>
+    <string name="about_developer_name">Hanz Dev Official</string>
+    <string name="about_copyright">© 2026 Hanz Dev Official</string>
+    <string name="action_close">Tutup</string>
+
+    <!-- Indikator mengetik -->
+    <string name="typing_desc">Hanz AI sedang mengetik</string>
+</resources>
