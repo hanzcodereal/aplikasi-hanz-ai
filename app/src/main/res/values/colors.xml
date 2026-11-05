@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hanz_indigo_dark">#FF312E81</color>
+    <color name="hanz_indigo">#FF4F46E5</color>
+    <color name="hanz_cyan">#FF22D3EE</color>
+    <color name="hanz_bg_dark">#FF0B1020</color>
+    <color name="hanz_bg_light">#FFF6F7FB</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
